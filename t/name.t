@@ -4,6 +4,7 @@ use lib 'lib';
 use Test;
 
 use Lisp;
+use Lisp::Compiler;
 
 plan 3;
 

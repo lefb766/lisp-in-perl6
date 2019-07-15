@@ -5,7 +5,7 @@ use Test;
 
 use Lisp;
 
-plan 3;
+plan 2;
 
 subtest {
     plan 2;
